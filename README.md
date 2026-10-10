@@ -4,7 +4,7 @@ A small, self-contained HTML tool that turns your daily schedule into a clean bl
 
 No install, no build step, no backend. Just one HTML file that runs entirely in the browser.
 
-**Live demo:** `https://<your-username>.github.io/schedule-wallpaper/`
+**Live demo:** `https://roshan1285.github.io/schedule-wallpaper/`
 
 ## Features
 
